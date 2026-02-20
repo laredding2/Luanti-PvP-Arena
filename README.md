@@ -1,8 +1,8 @@
 # PvP Arena Mod for Minetest
 
-A full-featured PvP arena mod with team-based combat, guns, scoreboards, and match management.
+A (soon-to-be) PvP arena mod with team-based combat, guns, scoreboards, and match management.
 
-## Features
+## Features (that I hope to have done soon)
 
 - **Team-based PvP** — Red vs Blue with auto-assignment
 - **6 Weapons** — Pistol, Assault Rifle, Shotgun, Sniper Rifle, Rocket Launcher, Frag Grenade
